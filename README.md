@@ -1,4 +1,4 @@
-# Sales-Performance-Customer-Insights-Dashboard-Excel-
+# Sales Performance and Customer Insights Dashboard (Excel)
 
 Tools: Excel (Pivot Tables, Power Query, XLOOKUP, Data Cleaning, Dashboard Design)
 
